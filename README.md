@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Tyler Grozenski </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/tgrozenski/" target="_blank" rel="noreferrer">Tyler</a> I'm a Passionate Associate Software Developer based in Los Angeles California. </font></h3>
+<h3 align="center"><font face="Arial">I'm an Associate Software Developer based in Los Angeles California. </font></h3>
 
 
 <div align="center">
