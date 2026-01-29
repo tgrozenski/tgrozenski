@@ -7,7 +7,7 @@
 
 🎓 MSCS Student expecting to graduate in 2026  
 ☁️ Currently learning more about DevOps and different Cloud Platforms  
-🤝 Looking to collaborate on projects that involve **Cloud and Agentic AI**
+🤝 Looking to collaborate on projects that involve **Cloud and Infrastructure**
 
 </div>
 
