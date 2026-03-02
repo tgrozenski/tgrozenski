@@ -22,6 +22,7 @@
 
 <h1 align="center"><font size="+2" face="Verdana">Cloud</font></h1>
 <p align="center"><img src="https://bobcares.com/wp-content/uploads/2024/11/google-cloud-platform-logo-icon-2048x1824-pg4wzspq-1.png" alt="gcp" title="gcp" width="40" height="40"/></p>
+<p align="center"><img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="aws" title="aws" width="40" height="40"/></p>
 
 <h1 align="center"><font size="+2" face="Verdana">Project Management</font></h1>
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> </p>
