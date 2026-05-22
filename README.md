@@ -1,11 +1,11 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Tyler Grozenski </font></h1>
-<h3 align="center"><font face="Arial">I'm an Associate Software Developer based in Los Angeles California. </font></h3>
+<h3 align="center"><font face="Arial">I'm an Cloud Engineer based in Los Angeles California. </font></h3>
 
 
 <div align="center">
 
-🎓 MSCS Student expecting to graduate in 2026  
+🎓 MSCS Student graduating in 2026  
 ☁️ Currently learning more about DevOps and different Cloud Platforms  
 🤝 Looking to collaborate on projects that involve **Cloud and Infrastructure**
 
